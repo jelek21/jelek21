@@ -1,5 +1,9 @@
 # Jerome Lekieffre
 - Embedded software engineer at Sagemcom
+- Working on:
+  * Linux Embedded
+  * Android AOSP
+  * Amazon Alexa
 
 ## Languages
 `C` `C++` `Java` `NodeJS` `shell` <br>
